@@ -1,0 +1,5 @@
+2022-11-15 18:38:57 - / 
+2022-11-15 18:38:57 - /pizzas 
+2022-11-15 18:39:02 - /pizzas/busca?q=peperone 
+2022-11-15 18:39:05 - /pizzas/busca?q=pepe 
+2022-11-15 18:39:08 - /pizzas/busca?q=pe 
